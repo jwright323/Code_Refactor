@@ -21,4 +21,4 @@ The nature of this task was to make the HTML side of the webpage more semantical
 https://jwright323.github.io/HW1/
 
 # Image of Horiseon Webpage
-![Horiseon](https://github.com/jwright323/code-refractor/blob/master/horiseon.png)
+![Horiseon](https://github.com/jwright323/HW1/blob/master/horiseon.png)
