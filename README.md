@@ -14,7 +14,7 @@ This job was to make the HTML side of the webpage more semantically sound as wel
 * replace existing html tags with logically ordered, semantic html tags
 * add alt attributes to all image tags/elements
 * inside of the 'title' tag, insert descriptive content, like the name or purpose of the site
-* heading elements should appear with the largest (e.g., ;<h1>) at the top of the file and the lower headings should be below in the html page
+* heading elements should appear with the largest (e.g., ;'h1') at the top of the file and the lower headings should be below in the html page
 * add comments to html and css files
   
 # Website
