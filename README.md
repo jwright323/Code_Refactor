@@ -21,4 +21,4 @@ This job was to make the HTML side of the webpage more semantically sound as wel
 https://jwright323.github.io/HW1/
 
 # Image of Horiseon Webpage
-![Horiseon](https://github.com/JerronM/code-refractor/blob/master/horiseon.png)
+![Horiseon](https://github.com/jwright323/code-refractor/blob/master/horiseon.png)
