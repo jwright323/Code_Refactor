@@ -4,13 +4,19 @@ This week, I have been tasked with cleaning up the code for a search engine opti
 # Task Description
 This job was to make the HTML side of the webpage more semantically sound as well as applying the applicable changes to the CSS side of things as well.
 
-# Tools Used to Complete Assignment
+# Tools Used to Complete Task
 * HTML
 *  CSS
 * Visual Studio Code
 * Google Fu!
   
 # Acceptance Criteria
+*
+*
+*
+*
+*
+*
 
 # Website
 
