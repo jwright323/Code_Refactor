@@ -18,7 +18,7 @@ The nature of this task was to make the HTML side of the webpage more semantical
 * Add comments to notate what each section of code was performing (HTML & CSS)
   
 # Website
-https://jwright323.github.io/HW1/
+https://jwright323.github.io/Code_Refactor/
 
 # Image of Horiseon Webpage
 ![Horiseon](https://github.com/jwright323/HW1/blob/master/horiseon.png)
